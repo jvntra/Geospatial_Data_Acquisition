@@ -11,32 +11,32 @@ The tables would have the following schema
 
 #### $a.)\ Parent\ School\ district\ table:$
 
-`district_id`
-`district_name`
-`district_type`
-`state`
-`county_or_counties`
-`source_name`
-`source_url`
-`source_type`
-`effective_date`
-`last_verified_date`
-`geometry`
-`geometry_quality_score`
-`notes`
+`district_id`  
+`district_name`  
+`district_type`  
+`state`  
+`county_or_counties`  
+`source_name`  
+`source_url`  
+`source_type`  
+`effective_date`  
+`last_verified_date`  
+`geometry`  
+`geometry_quality_score`  
+`notes`  
 
 #### $b.)\ Board member\ / director, subdistrict\ table.$
 
-`subdistrict_id`
-`parent_district_id`
-`subdistrict_name`
-`seat_number_or_area`
-`election_method`
-`source_name`
-`source_url`
-`effective_date`
-`geometry`
-`notes`
+`subdistrict_id`  
+`parent_district_id`  
+`subdistrict_name`  
+`seat_number_or_area`  
+`election_method`  
+`source_name`  
+`source_url`  
+`effective_date`  
+`geometry`  
+`notes`  
 
 #### $2.)\ Source\ Strategy$
 
