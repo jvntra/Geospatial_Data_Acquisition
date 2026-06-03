@@ -1,7 +1,7 @@
 # $Geospatial\ Data\ Acquisition$
 Geospatial Data Acquisition workflow that includes reasoning on data modeling, source strategy, quality assessment, validation, assumptions made and tradeoffs.
 
-[](./images/map-of-colorado-counties.jpg)
+![](./images/map-of-colorado-counties.jpg)
 
 ### $Setup$
 
