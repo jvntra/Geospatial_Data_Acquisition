@@ -5,13 +5,13 @@ Geospatial Data Acquisition workflow that includes reasoning on data modeling, s
 
 To create an enviroment which contains all relevant packages for this analyis to be run and reproduced...
 
-**Using Conda**
+#### $Using\ Conda$
 
 create the environment by running this in the Mac OS Command line Interface AKA the Terminal. 
 
 `conda env create -f environment.yml`
 
-Activate it by running:
+Activate the environment by running:
 
 `conda activate geo-analysis-env`
 
