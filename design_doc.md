@@ -47,7 +47,7 @@ As mentioned in the Assessment instructions, individual board member seats withi
 
 Overall, school district boundaries and school board election geographies should be modeled as separate but related entities because many districts elect board members from director districts that do not necessarily correspond to the district boundary itself, while other districts use at-large elections and have no subdistrict geometry at all
 
-#### $2.)\ Source\ Evaluation\ &\ Strategy$
+#### $2.)\ Source\ Evaluation\ and\ Strategy$
 
 Evaluation table:
 
